@@ -7,8 +7,9 @@ import Navbar from "./components/Navbar.jsx";
 import {Box, useColorModeValue} from "@chakra-ui/react";
 import {Routes,Route} from "react-router-dom";
 
+
 function App() {
-  
+
 
   return (
     
